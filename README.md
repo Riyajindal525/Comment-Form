@@ -1,26 +1,14 @@
-##📦 This Repository Includes:
+# React Mini Components
 
-This repo contains multiple React components for practice and learning:
+A small React project showcasing multiple **independent functional components** — including a counter, like button, form, and comment form — each demonstrating different React concepts like state, props, event handling, and form control.
 
-Counter – A simple counter using state.
+## 🧩 Components Included
 
-Like Button – Toggles like/unlike state.
-
-Form – Demonstrates controlled form inputs.
-
-Comment Form – Takes username, remarks, and ratings with validation.
-
-Show Comment – Displays submitted comments.
-
-# About  Comment Form
-
-A minimal React comment form with validation. Users can submit username, remarks, and rating (1–5) and see them displayed below the form.
-
-## Features
-- Username, remarks, and rating inputs
-- Validation with error messages
-- Display submitted comments
-- Minimal styling with border layout
+- **Counter** – Increases or decreases count using state.
+- **Like Button** – Toggles heart icon color dynamically.
+- **Form** – Demonstrates controlled inputs.
+- **Comment Form** – Adds comments with username, remarks, and rating.
+- **Show Comment** – Displays submitted comments.
 
 ## Tech
 - React (Hooks)
