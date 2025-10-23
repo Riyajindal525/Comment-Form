@@ -1,0 +1,6 @@
+.Form { max-width:400px; margin:20px auto; padding:15px; border:1px solid #333; border-radius:8px; }
+.error {
+  color: red;
+  font-size: 0.9rem;
+  margin-top: 5px;
+}
